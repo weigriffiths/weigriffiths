@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @weigriffiths
-- 👀 I’m interested in startups focusing on HealthTech, Blockchain, Web 3.0, FitTech, and consumer.
-- 🌱 I’m currently learning Solidity.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me weilingriffiths@gmail.com
 
 <!---
 weigriffiths/weigriffiths is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
